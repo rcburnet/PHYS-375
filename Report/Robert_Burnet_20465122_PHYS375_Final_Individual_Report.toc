@@ -1,6 +1,0 @@
-\contentsline {section}{\numberline {I}Algorithmic Choices}{1}{section.1}
-\contentsline {subsection}{\numberline {A}Adaptive Runge-Kutta-Fehlberg and Bisection Method}{1}{subsection.1.1}
-\contentsline {subsection}{\numberline {B}Creating and Plotting Stars}{2}{subsection.1.2}
-\contentsline {section}{\numberline {II}Main Sequence}{3}{section.2}
-\contentsline {section}{\numberline {III}Stellar Structure}{5}{section.3}
-\contentsline {section}{\numberline {IV}Appendix}{9}{section.4}
